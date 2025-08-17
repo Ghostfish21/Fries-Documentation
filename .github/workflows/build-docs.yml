@@ -12,7 +12,7 @@ permissions:
 
 env:
   # 模块名/实例ID。默认示例项目是 Writerside/hi
-  INSTANCE: "Writerside/f"
+  INSTANCE: "f"
   # 使用与本地预览一致的 Writerside Docker 版本（示例为当前文档标注的最新）
   DOCKER_VERSION: "2025.04.8412"
 
